@@ -1,12 +1,13 @@
 # Dart Homework
 
-This folder contains solutions for the first three Dart homework exercises.
+This folder contains solutions for the following Dart exercises:
 
 ## Homework 1
-Determine whether a person's age falls within the teenager range (13–19) using the ternary operator.
+Calculate the time required to reach the office in minutes based on a given distance and travel speed.
 
 ## Homework 2
-Check whether a number entered by the user is positive, negative, or zero.
+Determine whether an age falls within the teenager range (13–19) using the ternary operator.
 
 ## Homework 3
-Print the numbers from 1 to 100 while skipping the number 41 using a `for` loop and the `continue` statement.
+- Check whether a number entered by the user is positive, negative, or zero.
+- Print the numbers from 1 to 100 while skipping the number 41 using a `for` loop and the `continue` statement.
